@@ -26,7 +26,7 @@ To apply negation, <strong>make sure to not add a space</strong> after the symbo
 </code><br>
 All other literals and symbols should have a space before and after each.
 
-##How to execute program:
+## How to execute program:
 After adding all the knowledge base sentences and proof sentence, rick click on test
 and select "Run Test.Main()".<br>
 Output is in console.
