@@ -1,4 +1,4 @@
-##How to add knowledge base and proofs:
+## How to add knowledge base and proofs:
 <strong>Open the provided <code>kb.txt</code> file view example.</strong>
 <ul>
 <li>Add all knowledge base sentence after "Knowledge Base:"</li>
@@ -8,7 +8,7 @@
 last sentence.</li>
 </ul>
 
-####Syntax for sentences:
+#### Syntax for sentences:
 <ul>
 <li>Negation: ~</li>
 <li>And: &&</li>
